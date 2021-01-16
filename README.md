@@ -1,8 +1,9 @@
 # Coursera-Practical Machine Learning Project
-Topic: Coursera-PracticalML-Project
+
+##Topic:## Coursera-PracticalML-Project
 
 
-## Files/Contents:
+### Files/Contents:
 
 <br>1) .RMD file</br>
 <br>2) .HTML file</br>
