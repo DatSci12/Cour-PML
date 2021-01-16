@@ -2,6 +2,7 @@
 Topic: Coursera-PracticalML-Project
 
 
+<p style="text-decoration:underline;">Files/Contents:</p>
 <u>Files/Contents:</u>
 
 <br>1) .RMD file</br>
