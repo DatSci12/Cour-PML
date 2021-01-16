@@ -2,8 +2,7 @@
 Topic: Coursera-PracticalML-Project
 
 
-<p style="text-decoration:underline;">Files/Contents:</p>
-<u>Files/Contents:</u>
+## Files/Contents:
 
 <br>1) .RMD file</br>
 <br>2) .HTML file</br>
